@@ -8,6 +8,9 @@
   <!-- Faceunlock -->
   <project path="external/motorola/faceunlock" name="external_utils" remote="ResurrectionRemix" />
 
+  <!-- QTI Perf -->
+  <project name="ThankYouMario/proprietary_vendor_qcom_common" path="vendor/qcom/common" revision="quartz" />
+
   <!-- Stitchimage -->
   <project path="external/asus/stitchimage" name="pixelexperience/external_asus_stitchimage" revision="ten-plus" />
 
